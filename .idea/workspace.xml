@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8e916bc-0129-4238-bc41-3df1b8dbd367" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1syDUx10UzC1MVYeY213MWc4kCl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\elevator\image\icons" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\elevator\image" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\elevator\image\footer" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\elevator\image\logo" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\elevator\image\slider" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\elevator\font\fonts" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\elevator\style" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\elevator\font" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\elevator\script" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8e916bc-0129-4238-bc41-3df1b8dbd367" name="Default Changelist" comment="" />
+      <created>1621835954288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621835954288</updated>
+      <workItem from="1621835955444" duration="15527000" />
+      <workItem from="1621920557296" duration="39378000" />
+      <workItem from="1622017063220" duration="24889000" />
+      <workItem from="1622042627880" duration="1412000" />
+      <workItem from="1622528521633" duration="36799000" />
+      <workItem from="1622724777109" duration="18414000" />
+      <workItem from="1622780535475" duration="68000" />
+      <workItem from="1622788343271" duration="100000" />
+      <workItem from="1622958603831" duration="15777000" />
+      <workItem from="1623231082026" duration="3322000" />
+      <workItem from="1623303035607" duration="606000" />
+      <workItem from="1623391471390" duration="32000" />
+      <workItem from="1623391583881" duration="4859000" />
+      <workItem from="1623408029153" duration="50000" />
+      <workItem from="1623426727580" duration="2652000" />
+      <workItem from="1623429490162" duration="176000" />
+      <workItem from="1623429900085" duration="46000" />
+      <workItem from="1623475613980" duration="25000" />
+      <workItem from="1623500716925" duration="11109000" />
+      <workItem from="1623658244062" duration="142000" />
+      <workItem from="1623742933756" duration="9000" />
+      <workItem from="1623746322923" duration="3000" />
+      <workItem from="1623746616654" duration="2896000" />
+      <workItem from="1623755817181" duration="3790000" />
+      <workItem from="1623766293911" duration="4357000" />
+      <workItem from="1623820695817" duration="10082000" />
+      <workItem from="1623920430735" duration="16000" />
+      <workItem from="1623924773275" duration="643000" />
+      <workItem from="1623931966619" duration="786000" />
+      <workItem from="1623938831221" duration="313000" />
+      <workItem from="1623939190744" duration="2634000" />
+      <workItem from="1624008883129" duration="1837000" />
+      <workItem from="1624078107478" duration="1703000" />
+      <workItem from="1624113295032" duration="149000" />
+      <workItem from="1624178811076" duration="2846000" />
+      <workItem from="1624190682209" duration="3712000" />
+      <workItem from="1624275242499" duration="108000" />
+      <workItem from="1624447598274" duration="4493000" />
+      <workItem from="1624464125499" duration="2351000" />
+      <workItem from="1624526109477" duration="2259000" />
+      <workItem from="1624625772407" duration="175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1622010054408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1622010054408" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1624461843694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624461843694" />
+  </component>
+</project>

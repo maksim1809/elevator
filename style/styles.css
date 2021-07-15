@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Epigraph Caps';
+  src: url(../font/fonts/Epigraph+Caps.eot);
+  src: url(../font/fonts/Epigraph+Caps.eot?#iefix) format('embedded-opentype'),
+       url(../font/fonts/Epigraph+Caps.otf) format('otf'),
+       url(../font/fonts/Epigraph+Caps.svg#Epigraph%20Caps) format('svg'),
+       url(../font/fonts/Epigraph+Caps.ttf) format('truetype'),
+       url(../font/fonts/Epigraph+Caps.woff) format('woff'),
+       url(../font/fonts/Epigraph+Caps.woff2) format('woff2');
+}
+
